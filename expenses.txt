@@ -1,0 +1,6 @@
+19.99 2002-05-03 test This is a description
+59.99 2002-05-20 test2 This is a description
+19.99 2002-06-03 test This is a description
+29.99 2002-06-20 test3 This is a description
+19.99 2002-07-03 test This is a description
+19.99 2003-05-03 test des
